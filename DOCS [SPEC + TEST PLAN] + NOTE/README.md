@@ -1,7 +1,4 @@
 # NOTE
-- Xem lại cách connect file testcase và file tb
-- 
-
 # TIMELINE
 ## 1. Hoàn thành các test cơ bản để ktra RTL hoạt động đúng với thiết kế ko => OK
 ### 1.1. Test_rw_reg_control_final => OK
